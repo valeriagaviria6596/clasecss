@@ -1,0 +1,21 @@
+p {
+    font-size: 30px;
+    font-family: "papyrus";
+    font-weight: bold;
+    color:rgb(231, 243, 242);
+    text-align:right ;
+
+}
+body{
+background-color: rgb(142, 142, 226);
+}
+main{
+    background-color: cornflowerblue;
+    
+}
+header{
+    background-color: rgb(223, 24, 10);
+}
+footer{
+    background-color: rgb(138, 18, 207);
+}
